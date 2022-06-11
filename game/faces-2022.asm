@@ -99,7 +99,7 @@ bip
          					stx   $900e          			; volume register (0-15)  
 
 								ldx	#180
-								stx	$900b							; garbage into medium note register
+								stx	$900b							; medium note register
 
          					ldx   #255
 bipPause
