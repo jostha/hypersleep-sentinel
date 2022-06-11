@@ -22,7 +22,9 @@ Then compiled code can be run from xvic with
 
 #### ACME 
 
-The source files were all compiled using ACME, which isn't available as an RPM. I'll leave the distribution file for Linux here - maybe I should use something newer but this is for a Vic20 so... other platform releases can be found on the WBM https://web.archive.org/web/20150520143433/https://www.esw-heim.tu-clausthal.de/~marco/smorbrod/acme/
+The source files were all compiled using ACME, which isn't available as an RPM. I'll leave the distribution file for Linux here - https://github.com/jostha/acme - maybe I should use something newer but this is for a Vic20 so... other platform releases can be found on the WBM https://web.archive.org/web/20150520143433/https://www.esw-heim.tu-clausthal.de/~marco/smorbrod/acme/
+
+Note: I did not write ACME and will take it down if asked to do so. This copy is for preservation purposes.
 
 For Linux just go into the src directory and type  `make`  then put  `acme`  somewhere on your path.
 
